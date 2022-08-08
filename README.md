@@ -1,1 +1,2 @@
 # World_Weather_Analysis
+The purpose of this assignment is to be able to navigate use of APIs including the Weather Database and gmaps to progress our learning and development of code use.  This week was challenging due to the large data sets and using the “break” function was very helpful when determining if my code was correct.  Overall I enjoyed this projects to see how these maps are coded on a small scale to done day to the work of going to a large scale. 
